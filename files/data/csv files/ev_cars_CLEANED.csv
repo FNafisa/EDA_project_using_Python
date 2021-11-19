@@ -1,0 +1,128 @@
+Name,Subtitle,Acceleration(sec),Top_Speed(km/h),Range(km),Efficiency(Wh/km),Fast_Charge_Speed(km/h),Drive,NumberofSeats,Price_in_Germany(USD),Price_In_UK(USD)
+Nissan Leaf ,Battery Electric Vehicle |       36 kWh ,7.9,144.0,220.0,164.0,230.0,Front Wheel Drive,5,34188.6,35093.25
+Porsche Taycan Turbo S,Battery Electric Vehicle |       83.7 kWh,2.8,260.0,390.0,215.0,860.0,All Wheel Drive,4,212423.03999999998,187420.5
+Nissan e-NV200 Evalia ,Battery Electric Vehicle |       36 kWh ,14.0,123.0,165.0,218.0,170.0,Front Wheel Drive,7,49513.619999999995,40844.25
+Volkswagen ID.3 Pure Performance,Battery Electric Vehicle |       45 kWh,8.9,160.0,275.0,164.0,260.0,Rear Wheel Drive,5,36434.399999999994,36612.0
+BMW iX3 ,Battery Electric Vehicle |       74 kWh,6.8,180.0,385.0,192.0,520.0,Rear Wheel Drive,5,75582.0,79447.5
+Nissan Leaf e+,Battery Electric Vehicle |       56 kWh ,7.3,157.0,325.0,172.0,390.0,Front Wheel Drive,5,43718.99999999999,41100.75
+BMW i3 120 Ah,Battery Electric Vehicle |       37.9 kWh,7.3,150.0,235.0,161.0,270.0,Rear Wheel Drive,4,44459.99999999999,42261.75
+Mercedes EQA 250,Battery Electric Vehicle |       66.5 kWh,8.9,160.0,355.0,187.0,420.0,Front Wheel Drive,5,54196.74,58718.25000000001
+DS 3 Crossback E-Tense,Battery Electric Vehicle |       45 kWh ,8.7,150.0,250.0,180.0,330.0,Front Wheel Drive,5,34245.6,42525.0
+BMW i3s 120 Ah,Battery Electric Vehicle |       37.9 kWh,6.9,160.0,230.0,165.0,260.0,Rear Wheel Drive,4,48563.99999999999,43611.75
+Audi e-tron GT RS,Battery Electric Vehicle |       85 kWh,3.3,250.0,405.0,210.0,810.0,All Wheel Drive,4,157548.0,149782.5
+Renault Zoe ZE50 R110,Battery Electric Vehicle |       52 kWh,11.4,135.0,315.0,165.0,230.0,Front Wheel Drive,5,36468.6,36173.25
+Hyundai IONIQ Electric,Battery Electric Vehicle |       38.3 kWh,9.7,165.0,250.0,153.0,220.0,Front Wheel Drive,5,40299.0,41242.5
+Tesla Roadster ,Battery Electric Vehicle |       200 kWh ,2.1,410.0,970.0,206.0,920.0,All Wheel Drive,4,245099.99999999997,255150.00000000003
+Peugeot e-208 ,Battery Electric Vehicle |       45 kWh ,8.1,150.0,275.0,164.0,370.0,Front Wheel Drive,5,34713.0,36753.75
+Honda e ,Battery Electric Vehicle |       28.5 kWh ,9.0,145.0,170.0,168.0,190.0,Rear Wheel Drive,4,38589.0,37341.0
+CUPRA Born 110 kW - 55 kWh,Battery Electric Vehicle |       45 kWh,8.9,160.0,275.0,164.0,440.0,Rear Wheel Drive,5,37278.0,38475.0
+Audi Q4 e-tron 35,Battery Electric Vehicle |       51.5 kWh,9.0,160.0,280.0,184.0,390.0,Rear Wheel Drive,5,47765.99999999999,55012.5
+Tesla Model Y Long Range Dual Motor,Battery Electric Vehicle |       76 kWh ,5.1,217.0,450.0,169.0,750.0,All Wheel Drive,7,68360.09999999999,72900.0
+Tesla Model Y Performance,Battery Electric Vehicle |       76 kWh ,3.7,241.0,430.0,177.0,720.0,All Wheel Drive,7,76340.09999999999,81000.0
+Porsche Taycan 4 Cross Turismo,Battery Electric Vehicle |       83.7 kWh,5.1,220.0,405.0,207.0,850.0,All Wheel Drive,4,106743.9,107109.0
+Opel Corsa-e ,Battery Electric Vehicle |       45 kWh ,8.1,150.0,275.0,164.0,370.0,Front Wheel Drive,5,33060.0,36639.0
+MG ZS EV,Battery Electric Vehicle |       42.5 kWh ,8.2,140.0,220.0,193.0,260.0,Front Wheel Drive,5,36468.6,35093.25
+Volkswagen ID.3 Pro,Battery Electric Vehicle |       58 kWh,9.6,160.0,350.0,166.0,440.0,Rear Wheel Drive,5,39894.299999999996,38367.0
+Volkswagen ID.3 Pro S,Battery Electric Vehicle |       77 kWh,7.9,160.0,450.0,171.0,550.0,Rear Wheel Drive,4,47874.299999999996,52380.0
+Renault Zoe ZE50 R135,Battery Electric Vehicle |       52 kWh,9.5,140.0,310.0,168.0,230.0,Front Wheel Drive,5,38748.6,38873.25
+Peugeot e-2008 SUV ,Battery Electric Vehicle |       45 kWh ,8.5,150.0,250.0,180.0,330.0,Front Wheel Drive,5,40413.0,41485.5
+Audi e-tron 50 quattro,Battery Electric Vehicle |       64.7 kWh,6.8,190.0,280.0,231.0,470.0,All Wheel Drive,5,78774.0,81810.0
+Porsche Taycan Turbo,Battery Electric Vehicle |       83.7 kWh,3.2,260.0,400.0,209.0,840.0,All Wheel Drive,4,174438.24,156411.0
+Smart EQ fortwo coupe,Battery Electric Vehicle |       16.7 kWh ,11.6,130.0,100.0,167.0,532.1774193548387,Rear Wheel Drive,2,21044.399999999998,25920.0
+Smart EQ fortwo cabrio,Battery Electric Vehicle |       16.7 kWh ,11.9,130.0,95.0,176.0,532.1774193548387,Rear Wheel Drive,2,24760.8,29187.000000000004
+Smart EQ forfour ,Battery Electric Vehicle |       16.7 kWh ,12.7,130.0,95.0,176.0,532.1774193548387,Rear Wheel Drive,4,21796.8,26723.25
+Honda e Advance,Battery Electric Vehicle |       28.5 kWh ,8.3,145.0,170.0,168.0,190.0,Rear Wheel Drive,4,43319.99999999999,40716.0
+Byton M-Byte 72 kWh 2WD,Battery Electric Vehicle |       72 kWh ,7.5,190.0,325.0,222.0,420.0,Rear Wheel Drive,5,60989.99999999999,67500.0
+Byton M-Byte 95 kWh 4WD,Battery Electric Vehicle |       95 kWh ,5.5,190.0,390.0,244.0,460.0,All Wheel Drive,5,72960.0,81000.0
+Porsche Taycan 4S,Battery Electric Vehicle |       71 kWh,4.0,250.0,375.0,189.0,750.0,All Wheel Drive,4,121395.18,112833.00000000001
+Porsche Taycan 4S Plus,Battery Electric Vehicle |       83.7 kWh,4.0,250.0,435.0,192.0,910.0,All Wheel Drive,4,128829.12,119060.55
+Mercedes EQV 300 Long,Battery Electric Vehicle |       90 kWh,12.1,160.0,320.0,281.0,280.0,Front Wheel Drive,7,81382.31999999999,95397.75
+Mazda MX-30 ,Battery Electric Vehicle |       30 kWh ,9.7,140.0,170.0,176.0,180.0,Front Wheel Drive,5,39318.6,35160.75
+Ford Mustang Mach-E SR RWD,Battery Electric Vehicle |       68 kWh,6.9,180.0,345.0,197.0,380.0,Rear Wheel Drive,5,53465.99999999999,55795.50000000001
+Ford Mustang Mach-E ER RWD,Battery Electric Vehicle |       88 kWh,7.0,180.0,440.0,200.0,430.0,Rear Wheel Drive,5,62101.49999999999,67473.0
+Ford Mustang Mach-E SR AWD,Battery Electric Vehicle |       68 kWh,6.3,180.0,330.0,206.0,360.0,All Wheel Drive,5,61559.99999999999,62977.50000000001
+Ford Mustang Mach-E ER AWD,Battery Electric Vehicle |       88 kWh,5.8,180.0,420.0,210.0,410.0,All Wheel Drive,5,71706.0,76990.5
+Audi e-tron Sportback 50 quattro,Battery Electric Vehicle |       64.7 kWh,6.8,190.0,295.0,219.0,490.0,All Wheel Drive,5,81339.0,93285.0
+Tesla Cybertruck Single Motor,Battery Electric Vehicle |       100 kWh ,7.0,180.0,390.0,256.0,740.0,Rear Wheel Drive,7,51299.99999999999,52650.0
+Tesla Cybertruck Dual Motor,Battery Electric Vehicle |       120 kWh ,5.0,190.0,460.0,261.0,710.0,All Wheel Drive,7,62699.99999999999,64800.00000000001
+Tesla Cybertruck Tri Motor,Battery Electric Vehicle |       200 kWh ,3.0,210.0,750.0,267.0,710.0,All Wheel Drive,7,85499.99999999999,91800.0
+Lexus UX 300e,Battery Electric Vehicle |       50 kWh ,7.5,160.0,260.0,192.0,150.0,Front Wheel Drive,5,54206.99999999999,59265.00000000001
+BMW i4 eDrive40,Battery Electric Vehicle |       80.7 kWh,5.7,190.0,475.0,170.0,660.0,Rear Wheel Drive,5,66462.0,70071.75
+Audi e-tron S 55 quattro,Battery Electric Vehicle |       86.5 kWh,4.5,210.0,320.0,270.0,510.0,All Wheel Drive,5,106931.99999999999,117450.00000000001
+Audi e-tron S Sportback 55 quattro,Battery Electric Vehicle |       86.5 kWh,4.5,210.0,335.0,258.0,540.0,All Wheel Drive,5,109496.99999999999,119745.00000000001
+Byton M-Byte 95 kWh 2WD,Battery Electric Vehicle |       95 kWh ,7.5,190.0,400.0,238.0,480.0,Rear Wheel Drive,5,70680.0,77625.0
+Fiat 500e Cabrio,Battery Electric Vehicle |       37.3 kWh ,9.0,150.0,245.0,152.0,410.0,Front Wheel Drive,4,34838.399999999994,35970.75
+Opel Mokka-e ,Battery Electric Vehicle |       45 kWh ,8.5,150.0,255.0,176.0,340.0,Front Wheel Drive,5,38885.399999999994,41229.0
+Skoda Enyaq iV 60,Battery Electric Vehicle |       58 kWh,8.7,160.0,330.0,176.0,420.0,Rear Wheel Drive,5,44288.99999999999,43193.25
+Skoda Enyaq iV 80,Battery Electric Vehicle |       77 kWh,8.6,160.0,420.0,183.0,510.0,Rear Wheel Drive,5,50102.99999999999,53122.5
+Skoda Enyaq iV 80X,Battery Electric Vehicle |       77 kWh,6.9,160.0,405.0,190.0,500.0,All Wheel Drive,5,53579.99999999999,56700.00000000001
+Skoda Enyaq iV RS,Battery Electric Vehicle |       77 kWh,6.2,180.0,395.0,195.0,480.0,All Wheel Drive,5,56999.99999999999,60750.00000000001
+Fiat 500e Hatchback 42 kWh,Battery Electric Vehicle |       37.3 kWh ,9.0,150.0,250.0,149.0,420.0,Front Wheel Drive,4,31418.399999999998,32393.250000000004
+Citroen e-C4 ,Battery Electric Vehicle |       45 kWh ,9.7,150.0,250.0,180.0,330.0,Front Wheel Drive,5,39489.6,41708.25
+Jaguar I-Pace EV400,Battery Electric Vehicle |       84.7 kWh,4.8,200.0,365.0,232.0,340.0,All Wheel Drive,5,88121.99999999999,88013.25
+Audi Q4 Sportback e-tron 35,Battery Electric Vehicle |       51.5 kWh,9.0,160.0,295.0,175.0,410.0,Rear Wheel Drive,5,50045.99999999999,57037.50000000001
+Nissan Ariya 63kWh,Battery Electric Vehicle |       63 kWh,7.5,160.0,335.0,188.0,450.0,Front Wheel Drive,5,51299.99999999999,54000.0
+Nissan Ariya 87kWh,Battery Electric Vehicle |       87 kWh,7.6,160.0,445.0,196.0,530.0,Front Wheel Drive,5,56999.99999999999,60750.00000000001
+Nissan Ariya e-4ORCE 63kWh,Battery Electric Vehicle |       63 kWh,5.9,200.0,325.0,194.0,440.0,All Wheel Drive,5,56999.99999999999,60750.00000000001
+Nissan Ariya e-4ORCE 87kWh,Battery Electric Vehicle |       87 kWh,5.7,200.0,420.0,207.0,500.0,All Wheel Drive,5,65550.0,70875.0
+Nissan Ariya e-4ORCE 87kWh Performance,Battery Electric Vehicle |       87 kWh,5.1,200.0,385.0,226.0,460.0,All Wheel Drive,5,74100.0,77625.0
+Volkswagen ID.3 Pro Performance,Battery Electric Vehicle |       58 kWh,7.3,160.0,350.0,166.0,440.0,Rear Wheel Drive,5,41604.299999999996,40149.0
+Volkswagen ID.4 Pro Performance,Battery Electric Vehicle |       77 kWh,8.5,160.0,410.0,188.0,500.0,Rear Wheel Drive,5,50672.99999999999,56119.50000000001
+Lucid Air Grand Touring,Battery Electric Vehicle |       110 kWh ,3.2,270.0,660.0,167.0,1380.0,All Wheel Drive,5,159600.0,168750.0
+Lucid Air Touring,Battery Electric Vehicle |       85 kWh ,3.4,250.0,530.0,160.0,1390.0,All Wheel Drive,5,108299.99999999999,121500.00000000001
+Lucid Air Pure,Battery Electric Vehicle |       85 kWh ,4.2,200.0,540.0,157.0,1410.0,Rear Wheel Drive,5,91199.99999999999,94500.0
+Tesla Model 3 Standard Range Plus LFP,Battery Electric Vehicle |       51 kWh ,5.6,225.0,340.0,150.0,570.0,Rear Wheel Drive,5,49658.399999999994,55336.50000000001
+Tesla Model 3 Performance,Battery Electric Vehicle |       76 kWh ,3.3,261.0,470.0,162.0,790.0,All Wheel Drive,5,66758.4,80986.5
+Fiat 500e Hatchback 24 kWh,Battery Electric Vehicle |       23.8 kWh ,9.5,135.0,165.0,144.0,260.0,Front Wheel Drive,4,26858.399999999998,27668.250000000004
+Mercedes EQC 400 4MATIC,Battery Electric Vehicle |       80 kWh,5.1,180.0,370.0,216.0,440.0,All Wheel Drive,5,75318.65999999999,88722.0
+Kia e-Niro 64 kWh,Battery Electric Vehicle |       64 kWh,7.8,167.0,370.0,173.0,350.0,Front Wheel Drive,5,44562.6,43800.75
+Kia e-Niro 39 kWh,Battery Electric Vehicle |       39.2 kWh,9.8,155.0,235.0,167.0,230.0,Front Wheel Drive,5,40230.6,40965.75
+Citroen e-SpaceTourer M 50 kWh,Battery Electric Vehicle |       45 kWh ,12.1,130.0,185.0,243.0,250.0,Front Wheel Drive,7,58641.6,43193.25
+Opel Zafira-e Life L 50 kWh,Battery Electric Vehicle |       45 kWh ,12.1,130.0,180.0,250.0,240.0,Front Wheel Drive,7,62272.49999999999,66777.75
+Peugeot e-Traveller Standard 50 kWh,Battery Electric Vehicle |       45 kWh ,13.1,130.0,185.0,243.0,250.0,Front Wheel Drive,7,63725.99999999999,66237.75
+Peugeot e-Traveller Long 50 kWh,Battery Electric Vehicle |       45 kWh ,13.1,130.0,185.0,243.0,250.0,Front Wheel Drive,7,64626.59999999999,67371.75
+Hyundai IONIQ 5 Project 45,Battery Electric Vehicle |       72.6 kWh ,5.2,185.0,370.0,196.0,860.0,All Wheel Drive,5,67887.0,64800.00000000001
+Porsche Taycan ,Battery Electric Vehicle |       71 kWh,5.4,230.0,395.0,180.0,790.0,Rear Wheel Drive,4,95212.79999999999,95431.5
+Porsche Taycan Plus,Battery Electric Vehicle |       83.7 kWh,5.4,230.0,460.0,182.0,960.0,Rear Wheel Drive,4,101738.15999999999,100897.65000000001
+Tesla Model S Long Range,Battery Electric Vehicle |       90 kWh ,3.2,250.0,555.0,162.0,830.0,All Wheel Drive,5,99168.59999999999,113373.00000000001
+Tesla Model S Plaid,Battery Electric Vehicle |       90 kWh ,2.1,322.0,535.0,168.0,800.0,All Wheel Drive,5,144768.59999999998,160623.0
+Tesla Model X Long Range,Battery Electric Vehicle |       90 kWh ,3.9,250.0,475.0,189.0,710.0,All Wheel Drive,7,109428.59999999999,122823.00000000001
+Tesla Model X Plaid,Battery Electric Vehicle |       90 kWh ,2.6,262.0,455.0,198.0,680.0,All Wheel Drive,7,133368.59999999998,149823.0
+Mini Cooper SE ,Battery Electric Vehicle |       28.9 kWh,7.3,150.0,185.0,156.0,260.0,Front Wheel Drive,4,37050.0,35100.0
+Volkswagen ID.4 Pure Performance,Battery Electric Vehicle |       52 kWh,9.0,160.0,285.0,182.0,410.0,Rear Wheel Drive,5,43832.99999999999,48640.5
+Audi e-tron GT quattro,Battery Electric Vehicle |       85 kWh,4.1,245.0,420.0,202.0,840.0,All Wheel Drive,4,113771.99999999999,107865.0
+Volvo C40 Recharge,Battery Electric Vehicle |       75 kWh,4.7,180.0,340.0,221.0,440.0,All Wheel Drive,5,70737.0,77490.0
+Hyundai Kona Electric 39 kWh,Battery Electric Vehicle |       39.2 kWh,9.9,155.0,250.0,157.0,210.0,Front Wheel Drive,5,40641.0,37732.5
+Hyundai Kona Electric 64 kWh,Battery Electric Vehicle |       64 kWh,7.9,167.0,395.0,162.0,370.0,Front Wheel Drive,5,47708.99999999999,43942.5
+Porsche Taycan 4S Cross Turismo,Battery Electric Vehicle |       83.7 kWh,4.1,240.0,405.0,207.0,850.0,All Wheel Drive,4,127499.87999999999,118557.00000000001
+Porsche Taycan Turbo Cross Turismo,Battery Electric Vehicle |       83.7 kWh,3.3,250.0,385.0,217.0,800.0,All Wheel Drive,4,176066.15999999997,157882.5
+Porsche Taycan Turbo S Cross Turismo,Battery Electric Vehicle |       83.7 kWh,2.9,250.0,380.0,220.0,790.0,All Wheel Drive,4,214030.43999999997,188878.5
+Kia EV6 GT,Battery Electric Vehicle |       77.4 kWh ,3.5,260.0,395.0,196.0,920.0,All Wheel Drive,5,75228.59999999999,78698.25
+BMW iX xDrive40,Battery Electric Vehicle |       71 kWh,6.1,200.0,350.0,203.0,470.0,All Wheel Drive,5,88121.99999999999,94371.75
+BMW iX xDrive50,Battery Electric Vehicle |       105.2 kWh,4.6,200.0,505.0,208.0,620.0,All Wheel Drive,5,111719.99999999999,124071.75000000001
+Hyundai IONIQ 5 Standard Range 2WD,Battery Electric Vehicle |       58 kWh ,8.5,185.0,310.0,187.0,720.0,Rear Wheel Drive,5,47765.99999999999,49943.25
+Hyundai IONIQ 5 Long Range 2WD,Battery Electric Vehicle |       72.6 kWh ,7.4,185.0,385.0,189.0,890.0,Rear Wheel Drive,5,51413.99999999999,56625.75000000001
+Hyundai IONIQ 5 Long Range AWD,Battery Electric Vehicle |       72.6 kWh ,5.2,185.0,375.0,194.0,870.0,All Wheel Drive,5,55745.99999999999,60945.75000000001
+Kia EV6 Standard Range 2WD,Battery Electric Vehicle |       58 kWh ,8.5,185.0,320.0,181.0,740.0,Rear Wheel Drive,5,51288.6,55329.75000000001
+Kia EV6 Long Range 2WD,Battery Electric Vehicle |       77.4 kWh ,7.5,185.0,420.0,184.0,980.0,Rear Wheel Drive,5,62688.59999999999,64800.00000000001
+Kia EV6 Long Range AWD,Battery Electric Vehicle |       77.4 kWh ,5.4,185.0,410.0,189.0,950.0,All Wheel Drive,5,63839.99999999999,70200.0
+Mercedes EQS 450+,Battery Electric Vehicle |       107.8 kWh,6.2,210.0,640.0,168.0,840.0,Rear Wheel Drive,5,121266.35999999999,128250.00000000001
+Mercedes EQS 580 4MATIC,Battery Electric Vehicle |       107.8 kWh,4.3,210.0,610.0,177.0,800.0,All Wheel Drive,5,154503.06,155250.0
+Tesla Model 3 Standard Range Plus,Battery Electric Vehicle |       50 kWh ,5.6,225.0,340.0,147.0,680.0,Rear Wheel Drive,5,49658.399999999994,55336.50000000001
+Polestar 2 Standard Range Single Motor,Battery Electric Vehicle |       61 kWh ,7.4,160.0,350.0,174.0,450.0,Front Wheel Drive,5,53009.99999999999,53865.0
+Polestar 2 Long Range Single Motor,Battery Electric Vehicle |       75 kWh ,7.4,160.0,425.0,176.0,550.0,Front Wheel Drive,5,56429.99999999999,57915.00000000001
+Polestar 2 Long Range Dual Motor,Battery Electric Vehicle |       75 kWh ,4.7,205.0,395.0,190.0,510.0,All Wheel Drive,5,59849.99999999999,61965.00000000001
+Volkswagen ID.4 Pure,Battery Electric Vehicle |       52 kWh,10.9,160.0,285.0,182.0,410.0,Rear Wheel Drive,5,42123.0,43402.5
+Audi Q4 e-tron 40,Battery Electric Vehicle |       76.6 kWh,8.5,160.0,405.0,189.0,500.0,Rear Wheel Drive,5,54149.99999999999,60736.50000000001
+Audi Q4 e-tron 50 quattro,Battery Electric Vehicle |       76.6 kWh,6.2,180.0,385.0,199.0,470.0,All Wheel Drive,5,61103.99999999999,69349.5
+Audi Q4 Sportback e-tron 50 quattro,Battery Electric Vehicle |       76.6 kWh,6.2,180.0,400.0,192.0,490.0,All Wheel Drive,5,63383.99999999999,71374.5
+Mercedes EQB 350 4MATIC,Battery Electric Vehicle |       66.5 kWh,6.5,160.0,340.0,196.0,400.0,All Wheel Drive,7,68400.0,67500.0
+Volkswagen ID.4 GTX,Battery Electric Vehicle |       77 kWh,6.2,180.0,400.0,193.0,490.0,All Wheel Drive,5,57473.1,74979.0
+CUPRA Born 150 kW - 62 kWh,Battery Electric Vehicle |       58 kWh,7.3,160.0,350.0,166.0,440.0,Rear Wheel Drive,5,41917.799999999996,41175.0
+CUPRA Born 170 kW - 62 kWh,Battery Electric Vehicle |       58 kWh,6.6,160.0,345.0,168.0,430.0,Rear Wheel Drive,5,44459.99999999999,42525.0
+CUPRA Born 170 kW - 82 kWh,Battery Electric Vehicle |       77 kWh,7.0,160.0,450.0,171.0,550.0,Rear Wheel Drive,5,49019.99999999999,56700.00000000001
+BMW i4 M50,Battery Electric Vehicle |       80.7 kWh,3.9,225.0,450.0,179.0,630.0,All Wheel Drive,5,79686.0,86271.75
+Volvo XC40 Recharge Twin Pure Electric,Battery Electric Vehicle |       75 kWh,4.9,180.0,340.0,221.0,440.0,All Wheel Drive,5,67545.0,67432.5
+Renault Megane E-Tech Electric,Battery Electric Vehicle |       60 kWh ,8.0,160.0,335.0,179.0,480.0,Front Wheel Drive,5,43319.99999999999,43875.0
+Peugeot e-Rifter Standard 50 kWh,Battery Electric Vehicle |       45 kWh ,11.7,135.0,200.0,225.0,270.0,Front Wheel Drive,7,42852.6,41006.25
+Peugeot e-Rifter Long 50 kWh,Battery Electric Vehicle |       45 kWh ,11.7,135.0,195.0,231.0,260.0,Front Wheel Drive,7,48552.6,43814.25

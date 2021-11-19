@@ -1,0 +1,9 @@
+/data
+/.venv
+/sqlite files
+city.csv
+heart.csv
+ElectricCarData_C.csv
+ElectricCarData_N.csv
+ElectricCarData_trn.csv
+ElectricCarData_tst.csv

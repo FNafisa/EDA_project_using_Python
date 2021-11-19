@@ -15,3 +15,21 @@ for row in cur.execute("SELECT name FROM sqlite_master WHERE type='table';"):
 # %%
 con.close()
 # %%
+
+# testing read_csv() in a different file
+
+df_test =pd.read_csv("data/csv files/city.csv")
+df_test.columns
+# %%
+mask = ~df_test["population"].isna()
+mask
+
+
+# %%
+# check_missing_values_in_every_column(df_test)
+
+
+
+# %%
+
+plt.bar(df_test["population"],new_x = np.arange(20));
