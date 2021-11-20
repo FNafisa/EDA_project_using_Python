@@ -7,18 +7,18 @@ data folder:
         \files\data\csv files\ev_cars.csv
 
     the other file named ev_cars_CLEANED.csv is the final result of my cleaning
-------------------------------------------------------------------------------------------------------------------------
+
 
 
 image folder:
     I have stored some images of plots that are related to my analysis
-------------------------------------------------------------------------------------------------------------------------
+
 
 
 The files:
     I had many tries before starting to ana clean and analyze the dataset so i created a couple of draft fils but
     the named EDA_EV_in_GR_UK.py is the one to work with, and it is designed to look like a step-by-step tutorial :)
-------------------------------------------------------------------------------------------------------------------------
+
 
 
 Data Description:
