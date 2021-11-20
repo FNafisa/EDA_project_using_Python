@@ -1,12 +1,12 @@
 data folder:
 
-    The goal of this exploratory data analysis project is to find out if car manufacturing companies around the world are interested manufacturing electric vehicles that are designed for families
+The goal of this exploratory data analysis project is to find out if car manufacturing companies around the world are interested manufacturing electric vehicles that are designed for families
 
 
-    The required data can be foun in:
+The required data can be foun in:
         \files\data\csv files\ev_cars.csv
 
-    the other file named ev_cars_CLEANED.csv is the final result of my cleaning
+the other file named ev_cars_CLEANED.csv is the final result of my cleaning
 
 
 
